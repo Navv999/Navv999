@@ -1,5 +1,6 @@
 # 💫 About Me:
-I am currently working in the field of AI in techniques like Computer vision,SLAM,, Genrative AI along with drone technology.
+👋 Hi there! Welcome to my GitHub
+I’m a software engineer passionate about Artificial Intelligence, Generative AI, and Robotics, with experience in Python, Django, and full-stack development. I enjoy solving complex problems and building innovative solutions, from AI-driven projects to scalable cloud-based applications.
 
 
 ## 🌐 Socials:
